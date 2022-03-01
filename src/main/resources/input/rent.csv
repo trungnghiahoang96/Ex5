@@ -1,0 +1,10 @@
+ID,Brand,Model, Number of seats, License plate, Status, From date, End date, Customer Id, Customer name
+1,Vinfast,2021, 4, 89H2 - 2323.33, Ready,,,,,
+2,Tesla,2021, 5, 30H2 - 2323.33, Ready,,,,,
+3,Mecs,2021, 7, 14H2 - 2323.33, Ready,,,,,
+4,BMW,2021, 4, 89H2 - 999.99, Ready,,,,,
+5,Vinfast,2021, 4, 89H2 - 32903, Ready,,,,,
+6,Vinfast,2021, 4, 89H2 - 32903, Renting,18/02/2022,20/02/2022,2, Messi
+7,Vinfast,2021, 4, 89H2 - 33333, Renting,18/02/2022,20/02/2022,3, Suarez
+8,BMW,2021, 4, 89H2 - 32904, Renting,16/02/2022,18/02/2022,4, Mike
+9,Tesla,2021, 4, 89H2 - 32905, Renting,18/02/2022,25/02/2022,5, Tom
